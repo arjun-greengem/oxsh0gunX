@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif" width="200">
 </p>
 
-<h1 align="center">🛡️ 0xSh0gunX</h1>
+<h1 align="center">🛡️ 0xsh0gunX</h1>
 <h3 align="center">Cybersecurity | Blue Team | SOC | Detection Engineering</h3>
 
 ---
