@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="180">
 </p>
-<h1 align="center">Hi, I'm Shibili 👋</h1>
+<h1 align="center">Hi, I'm 0xSh0gunX 👋</h1>
 <h3 align="center">Crafting code, designing dreams, and exploring the digital universe.</h3>
 
 ---
