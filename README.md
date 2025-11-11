@@ -61,7 +61,7 @@
 <!-- TryHackMe Section -->
 <h2>🎯 TryHackMe Progress</h2>
 <p align="center">
-  <a href="https://tryhackme.com/p/0xsh0gunX">
+  <a href="https://tryhackme.com/p/oxsh0gunX">
     <img src="https://tryhackme-badges.s3.amazonaws.com/oxsh0gunX.png" alt="TryHackMe Badge" />
   </a>
 </p>
