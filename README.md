@@ -21,7 +21,6 @@
 
 ---
 
-<!-- About Section -->
 <h2>🧩 About Me</h2>
 
 - 🔒 Passionate about **Cyber Security & Blue Team Operations**  
@@ -33,7 +32,6 @@
 
 ---
 
-<!-- Tech Stack -->
 <h2>⚙️ My Arsenal</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
