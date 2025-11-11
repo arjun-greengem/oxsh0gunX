@@ -77,7 +77,7 @@
   <a href="https://github.com/oxsh0gunX">
     <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/muhammed-safvan-b4629b27a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
