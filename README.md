@@ -78,7 +78,7 @@
   <a href="mailto:yourmail@example.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/0xSh0gunX">
+  <a href="https://github.com/oxsh0gunX">
     <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile">
