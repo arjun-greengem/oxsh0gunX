@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <b>⚔️ Cyber  | 🧠 Tester | 🐧 Arch  </b>
+  <b>⚔️ <i>Cyber  | 🧠 Tester | 🐧 Arch </i> </b>
 </p>
 
 <p align="center">
