@@ -72,13 +72,13 @@
 
 <h2>🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://t.me/oxsh0gunX">
+  <a href="https://t.me/kakkerot">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:safvanmbn@gmail.com">
+  <a href="mailto:arjunkallippurath@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/oxsh0gunX">
+  <a href="https://github.com/arjun-greengem">
     <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammed-safvan-b4629b27a/">
